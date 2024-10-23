@@ -1,4 +1,7 @@
-# Тренеровочный проект Django
 
-![.](D:\Програмиирование и проекты\PyCharm Projects\Django\source_rm\django-img.jpg)
-## Использовать, как шаблон в будущих проектах
+<p align="center">
+  <img src="https://github.com/Dismont/django-training/blob/project/source_rm/django-img.jpg" alt="django-img"/>
+</p>
+
+# Тренеровочный проект Django с БД PosgreSQL (интеграция в Docker)
+*Использовать, как шаблон в будущих проектах*
